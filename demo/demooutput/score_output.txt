@@ -1,0 +1,110 @@
+oy_100.png vs oy_099.png
+wodecoder
+compare_body_pose cosine score: 0.9958006739616394
+compare_body_pose ggcosine score: 0.9928918362003856
+compare_body_pose_quaternion cosine score: 0.9998112916946411
+compare_body_pose_euler cosine score: 0.9958593845367432
+compare_body_pose_token cosine score: 0.9925670027732849
+compare_body_pose_rot6d cosine score: 0.9993245601654053
+compare_body_pose_rotmat cosine score: 0.9994967579841614
+
+oy_050.png vs oy_070.png
+wodecoder
+compare_body_pose cosine score: 0.5950304865837097
+compare_body_pose ggcosine score: 0.4260031465548053
+compare_body_pose_quaternion cosine score: 0.9541473388671875
+compare_body_pose_euler cosine score: 0.4910563826560974
+compare_body_pose_token cosine score: 0.7223467230796814
+compare_body_pose_rot6d cosine score: 0.9423346519470215
+compare_body_pose_rotmat cosine score: 0.885650098323822
+
+oy_080.png vs oy1_040.png
+wodecoder
+compare_body_pose cosine score: 0.7900143265724182
+compare_body_pose ggcosine score: 0.5747276699269577
+compare_body_pose_quaternion cosine score: 0.9727956652641296
+compare_body_pose_euler cosine score: 0.7749080061912537
+compare_body_pose_token cosine score: 0.414730042219162
+compare_body_pose_rot6d cosine score: 0.9057602286338806
+compare_body_pose_rotmat cosine score: 0.9308927059173584
+
+oy1_050.png vs oy1_060.png
+wodecoder
+compare_body_pose cosine score: 0.8928651213645935
+compare_body_pose ggcosine score: 0.8500191636267722
+compare_body_pose_quaternion cosine score: 0.9928337931632996
+compare_body_pose_euler cosine score: 0.820819079875946
+compare_body_pose_token cosine score: 0.9599974155426025
+compare_body_pose_rot6d cosine score: 0.9952965974807739
+compare_body_pose_rotmat cosine score: 0.9815624356269836
+
+oy1_070.png vs oy1_100.png
+wodecoder
+compare_body_pose cosine score: 0.9476283192634583
+compare_body_pose ggcosine score: 0.9042046592715458
+compare_body_pose_quaternion cosine score: 0.9975883960723877
+compare_body_pose_euler cosine score: 0.9512621164321899
+compare_body_pose_token cosine score: 0.9623667597770691
+compare_body_pose_rot6d cosine score: 0.991717517375946
+compare_body_pose_rotmat cosine score: 0.9935994148254395
+
+oy1_070.png vs oy1_100.png
+wodecoder
+compare_body_pose cosine score: 0.9476251006126404
+compare_body_pose ggcosine score: 0.904220679316456
+compare_body_pose_quaternion cosine score: 0.9975887537002563
+compare_body_pose_euler cosine score: 0.9512604475021362
+compare_body_pose_token cosine score: 0.9623634815216064
+compare_body_pose_rot6d cosine score: 0.9917163848876953
+compare_body_pose_rotmat cosine score: 0.993600606918335
+
+rxy_40070.png vs rxy_40050.png
+wodecoder
+compare_body_pose cosine score: 0.8226855993270874
+compare_body_pose ggcosine score: 0.5838427486757283
+compare_body_pose_quaternion cosine score: 0.9815475940704346
+compare_body_pose_euler cosine score: 0.8351046442985535
+compare_body_pose_token cosine score: 0.8054821491241455
+compare_body_pose_rot6d cosine score: 0.9724364876747131
+compare_body_pose_rotmat cosine score: 0.9518212676048279
+
+rxy_40.png vs oy1shijiao_090.png
+wodecoder
+compare_body_pose cosine score: 0.5471517443656921
+compare_body_pose ggcosine score: 0.36909196965909175
+compare_body_pose_quaternion cosine score: 0.9784435033798218
+compare_body_pose_euler cosine score: 0.4786914885044098
+compare_body_pose_token cosine score: 0.5597302317619324
+compare_body_pose_rot6d cosine score: 0.9375119805335999
+compare_body_pose_rotmat cosine score: 0.943753182888031
+
+rxy_40100.png vs rxy_41050.png
+wodecoder
+compare_body_pose cosine score: 0.7832993865013123
+compare_body_pose ggcosine score: 0.46312165556764384
+compare_body_pose_quaternion cosine score: 0.8682774305343628
+compare_body_pose_euler cosine score: 0.8471071720123291
+compare_body_pose_token cosine score: 0.4934382438659668
+compare_body_pose_rot6d cosine score: 0.9199249744415283
+compare_body_pose_rotmat cosine score: 0.8935921788215637
+
+rxy_41080.png vs rxy_41070.png
+wodecoder
+compare_body_pose cosine score: 0.9777054190635681
+compare_body_pose ggcosine score: 0.9276524062914682
+compare_body_pose_quaternion cosine score: 0.9974651336669922
+compare_body_pose_euler cosine score: 0.9863505959510803
+compare_body_pose_token cosine score: 0.968339741230011
+compare_body_pose_rot6d cosine score: 0.9952943921089172
+compare_body_pose_rotmat cosine score: 0.9932640194892883
+
+oy_080.png vs rxy_41100.png
+wodecoder
+compare_body_pose cosine score: 0.7157749533653259
+compare_body_pose ggcosine score: 0.5367610762105386
+compare_body_pose_quaternion cosine score: 0.9820421934127808
+compare_body_pose_euler cosine score: 0.6962718963623047
+compare_body_pose_token cosine score: 0.8456904888153076
+compare_body_pose_rot6d cosine score: 0.978121280670166
+compare_body_pose_rotmat cosine score: 0.9535897970199585
+

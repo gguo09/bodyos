@@ -1,0 +1,30 @@
+jizhu1.png vs jizhu2.png
+compare_body_pose cosine score: 0.9956735372543335
+compare_body_pose ggcosine score: 0.9854753887270817
+compare_body_pose_quaternion cosine score: 0.9997985363006592
+compare_body_pose_euler cosine score: 0.9959129095077515
+compare_body_pose_token cosine score: 0.9610153436660767
+compare_new_body_pose_token cosine score: 0.9952641725540161
+compare_body_pose_rot6d cosine score: 0.9992077350616455
+compare_body_pose_rotmat cosine score: 0.9994629621505737
+
+jizhu1.png vs jizhu2.png
+compare_body_pose cosine score: 0.9956686496734619
+compare_body_pose ggcosine score: 0.9854867527950688
+compare_body_pose_quaternion cosine score: 0.9997983574867249
+compare_body_pose_euler cosine score: 0.995908796787262
+compare_body_pose_token cosine score: 0.9610193371772766
+compare_new_body_pose_token cosine score: 0.9952630400657654
+compare_body_pose_rot6d cosine score: 0.9992072582244873
+compare_body_pose_rotmat cosine score: 0.9994622468948364
+
+jizhu1.png vs jizhu2.png
+compare_body_pose cosine score: 0.9956735372543335
+compare_body_pose ggcosine score: 0.9854753887270817
+compare_body_pose_quaternion cosine score: 0.9997985363006592
+compare_body_pose_euler cosine score: 0.9959129095077515
+compare_body_pose_token cosine score: 0.9610153436660767
+compare_new_body_pose_token cosine score: 0.9952641725540161
+compare_body_pose_rot6d cosine score: 0.9992077350616455
+compare_body_pose_rotmat cosine score: 0.9994629621505737
+
